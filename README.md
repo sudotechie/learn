@@ -30,7 +30,7 @@ A: Globally via regional data centers
 
 A: Features, Reliability, Ease of Use, Cost, Branding
 
-                    This is where it gets a little more complicated...
+     This is where it gets a little more complicated...
 
 4. So what does it take to deliver that differentiation?
 
@@ -42,7 +42,8 @@ A: Ease of Use - Collection and visualization of correlation data: user interact
 
 A: Cost - Companies have three levers to use to derive pricing - value-based (how much would it cost to solve this otherwise?), competitive (what do our direct competitors charge?), and COGS-based (what does it cost us to deliver this product or service?). Employees can only impact the value they deliver (identifying the right use cases to pursue and delivering the right functionality) and the cost to run their service via organizational and technical decisions.  
 
-                    And this is where it all comes together. Answer #5 and you're on the cusp of having real customer empathy 
+     And this is where it all comes together. 
+     Answer #5 and you're on the cusp of having real customer empathy 
                     
 5. From an organizational perspective, what roles and responsibilities are needed to achieve these outcomes?
 
