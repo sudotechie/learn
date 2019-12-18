@@ -1,3 +1,5 @@
+##**Background**
+
 This project is my attempt at sharing my strategy for building personal relevance in the rapidly changing world of software delivery. 
 
 I am here out of necessity. My role has traditionally been sales "+" for software, SaaS, and even hardware companies. The "+" represents the part of my role where a playbook didn't exist. Having to do this over and over taught me how to quickly learn about the technologies, competitive ecosystems, and the users and companies that adopt them.
@@ -45,37 +47,38 @@ Had I had this framework in time for the SRE conversation, I would have been abl
 
 Now that I've shared a primer on how I organize this information, the next section covers some of the content I consume to educate these frameworks.
 
-Books
-The New Kingmakers
-The Phoenix Project
-The Unicorn Project
-The DevOps Handbook
-Accelerate 
-The Manager's Path (Eng Leadership)
-An Elegant Puzzle (Eng Leadership)
+###__Books__
+-[The New Kingmakers](https://thenewkingmakers.com/)
+-[The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
+-[The Unicorn Project](https://itrevolution.com/book/the-unicorn-project/)
+-[The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+-[Accelerate](https://itrevolution.com/book/accelerate/)
+-[The Manager's Path](http://shop.oreilly.com/product/0636920056843.do) (Eng Leadership)
+-[An Elegant Puzzle](https://lethain.com/elegant-puzzle/) (Eng Leadership)
 
-Podcasts (in no order)
-Software Engineering Daily
-SE Radio
-o11ycast
-On-Call Nightmares
-Arrested DevOps
-Troubleshooting Agile
-DevOps Cafe
-The Ship Show (retired 2016)
-Foodfight Show
-DevOps Chat
-The New Stack
-The Changelog
-Maintainable
+###__Podcasts__ (in no order)
+-[Software Engineering Daily](https://softwareengineeringdaily.com/)
+-[SE Radio](https://www.se-radio.net/)
+-[On-Call Nightmares]
+-[Arrested DevOps]
+-[Troubleshooting Agile]
+-[DevOps Cafe]
+-[The Ship Show (retired 2016)]
+-[Foodfight Show]
+-[DevOps Chat]
+-[The New Stack]
+-[The Changelog]
+-[Maintainable]
+-[o11ycast](https://www.heavybit.com/library/podcasts/o11ycast/)
 Any cloud vendor podcast episodes (ie Google for Kubernetes, etc)
 
-Blogs/Articles
-SRE Weekly by Lex Neva
-Engineering Impact by Gitprime
+###__Blogs/Articles__
+-[SRE Weekly by Lex Neva]
+-[Engineering Impact by Gitprime]
+-Dan Luu's Summary of _[Site Reliability Engineering](https://danluu.com/google-sre-book/)_ by Google
 
-Reports
-State of DevOps (DORA, previously Puppet)
-Developer Coefficient by Stripe
+###__Reports__
+-[State of DevOps] (DORA, previously Puppet)
+-[Developer Coefficient by Stripe]
 
 
