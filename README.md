@@ -78,25 +78,25 @@ Now that I've shared a primer on how I organize this information, the next secti
 
 - [SE Radio](https://www.se-radio.net/)
 
-- [On-Call Nightmares]
+- [On-Call Nightmares](https://dev.to/oncallnightmares)
 
-- [Arrested DevOps]
+- [Arrested DevOps](https://www.arresteddevops.com/)
 
-- [Troubleshooting Agile]
+- [Troubleshooting Agile](https://www.troubleshootingagile.com/)
 
-- [DevOps Cafe]
+- [DevOps Cafe](http://devopscafe.org/)
 
-- [The Ship Show (retired 2016)]
+- [The Ship Show](http://theshipshow.com/) (retired 2016)]
 
-- [Foodfight Show]
+- [Foodfight Show](http://foodfightshow.org/) (retired 2019)
 
-- [DevOps Chat]
+- [DevOps Chat](https://devops.com/category/devops-chat/)
 
-- [The New Stack]
+- [The New Stack](https://thenewstack.io/podcasts/)
 
-- [The Changelog]
+- [The Changelog](https://changelog.com/podcast)
 
-- [Maintainable]
+- [Maintainable](https://maintainable.fm/)
 
 - [o11ycast](https://www.heavybit.com/library/podcasts/o11ycast/)
 
@@ -104,16 +104,16 @@ Any cloud vendor podcast episodes (ie Google for Kubernetes, etc)
 
 ### __Blogs/Articles__
 
-- [SRE Weekly by Lex Neva]
+- [SRE Weekly by Lex Neva](http://sreweekly.com/)
 
-- [Engineering Impact by Gitprime]
+- [Engineering Impact by Gitprime](https://www.gitprime.com/engineering-impact/)
 
 - Dan Luu's Summary of _[Site Reliability Engineering](https://danluu.com/google-sre-book/)_ by Google
 
 ### __Reports__
 
-- [State of DevOps] (DORA, previously Puppet)
+- [State of DevOps](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) (DORA, previously Puppet)
 
-- [Developer Coefficient by Stripe]
+- [Developer Coefficient by Stripe](https://stripe.com/reports/developer-coefficient-2018)
 
 
