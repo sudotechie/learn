@@ -44,7 +44,9 @@ A: Features, Reliability, Ease of Use, Cost, Branding, Distribution
 
 **Distribution** - This encompasses the buying experience, and is typically the area I am directly involved in. Although each of the above items may supercede one another, a successfully executed distribution model has the ability to reshape the narrative, overcoming as many as ***all*** of the above.
 
-     However, this is not enough. With knowledge on your prospect's business, your company's differentiated positioning, you have the makings for a business justification (pending quantification of value/alignment to outcomes). But in order to get to that stage, you'll need personalization, aka **customer empathy**
+     However, this is not enough. With knowledge on your prospect's business, your company's differentiated positioning, you have the makings for a business
+     justification (pending quantification of value/alignment to outcomes). But in order to get to that stage, you'll need personalization, aka **customer 
+     empathy**
                     
 5. From an organizational perspective, what roles and responsibilities are needed to achieve these outcomes? What's getting in the way of these individuals from achieveing their desired outcomes?
 
