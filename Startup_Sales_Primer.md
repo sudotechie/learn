@@ -32,7 +32,7 @@ To successfully achieve product-market-fit, you're simultaneously having to:**
 
 **Why?**
 
-#1 leads to a story that resonates, a customer that advocates on your behalf, and a deep understanding of the stakeholders, problem description, and the quantification of value 
-#2 establishes credibility that you'll need to recruit talent, begin to scale sales, and attract the attention of analysts and influencers
-#3 is greatly influenced by your ability to do #1 and #2. Pricing becomes defensible. Cost of sales decreases. Repeatability becomes achievable. Sales cycles shorten.
+**#1** leads to a story that resonates, a customer that advocates on your behalf, and a deep understanding of the stakeholders, problem description, and the quantification of value 
+**#2** establishes credibility that you'll need to recruit talent, begin to scale sales, and attract the attention of analysts and influencers
+**#3** is greatly influenced by your ability to do #1 and #2. Pricing becomes defensible. Cost of sales decreases. Repeatability becomes achievable. Sales cycles shorten.
 
