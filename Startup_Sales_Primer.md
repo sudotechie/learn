@@ -1,6 +1,6 @@
-**During my career, I've joined two stealth/pre-general availability startups to figure out how to get our first customers to pay us money. For folks that are in the same boat, primarily working on high-touch or high dollar technical products, it can be a real challenge. 
+**During my career, I've joined two stealth/pre-general availability startups to figure out how to get our first customers to pay us money. For folks that are in the same boat, primarily working on high-touch or high dollar technical products, it can be a real challenge.** 
 
-To successfully achieve product-market-fit, you're simultaneously having to:**
+**To successfully achieve product-market-fit, you're simultaneously having to:**
 
 1. Build a product that delivers some value to someone and company
 2. Get meetings with the people that should care about this and need your product
@@ -32,7 +32,7 @@ To successfully achieve product-market-fit, you're simultaneously having to:**
 
 **Why?**
 
-**#1** leads to a story that resonates, a customer that advocates on your behalf, and a deep understanding of the stakeholders, problem description, and the quantification of value 
-**#2** establishes credibility that you'll need to recruit talent, begin to scale sales, and attract the attention of analysts and influencers
+**#1** leads to a story that resonates, a customer that advocates on your behalf, and a deep understanding of the stakeholders, problem description, and the quantification of value.
+**#2** establishes credibility that you'll need to recruit talent, begin to scale sales, and attract the attention of analysts and influencers.
 **#3** is greatly influenced by your ability to do #1 and #2. Pricing becomes defensible. Cost of sales decreases. Repeatability becomes achievable. Sales cycles shorten.
 
