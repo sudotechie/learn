@@ -34,20 +34,19 @@ A: Features, Reliability, Ease of Use, Cost, Branding, Distribution
 
 4. So what does it take to deliver that differentiation?
 
-**Features** - Ability to ship code faster, collect/visualize data on how code performed, expose for subsets of users, track features, engineering capacity, customer training, and marketing
+**Features** - Ability to ship code faster, collect/visualize data on how code performed, expose for subsets of users, track features, engineering capacity, customer training, and marketing. In more recent years, extensibility and integrations have grown in importance, and fall within this bucket.
 
 **Reliability** - Multiple components here: detecting and alerting on failures, ability to withstand multiple types of failures, ability to revert/remediate quickly, means to teach engineers how the system works, robust QA (quality assurance) whether that's through test-driven development, paired programing, or user testing, track bugs and customer impact
 
-**Ease of Use** - Collection and visualization of correlation data: user interactions vs. adoption, conversion, expansion, churn; similar measurements for professional services and impact on customer-lifetime value
+**Ease of Use** - Collection and visualization of correlation data: user interactions vs. adoption, conversion, expansion, churn; similar measurements for professional services and impact on customer-lifetime value. Adoption wins, especially in lifetime value and enterprise ROI.
 
 **Cost** - Companies have three levers to use to derive pricing - value-based (how much would it cost to solve this otherwise?), competitive (what do our direct competitors charge?), and COGS-based (what does it cost us to deliver this product or service?). Employees can only impact the value they deliver (identifying the right use cases to pursue and delivering the right functionality) and the cost to run their service via organizational and technical decisions.  
 
 **Distribution** - This encompasses the buying experience, and is typically the area I am directly involved in. Although each of the above items may supercede one another, a successfully executed distribution model has the ability to reshape the narrative, overcoming as many as ***all*** of the above.
 
-     And this is where it all comes together. 
-     Answer #5 and you're on the cusp of having real customer empathy 
+     However, this is not enough. With knowledge on your prospect's business, your company's differentiated positioning, you have the makings for a business justification (pending quantification of value/alignment to outcomes). But in order to get to that stage, you'll need personalization, aka **customer empathy**
                     
-5. From an organizational perspective, what roles and responsibilities are needed to achieve these outcomes?
+5. From an organizational perspective, what roles and responsibilities are needed to achieve these outcomes? What's getting in the way of these individuals from achieveing their desired outcomes?
 
 ...
 
