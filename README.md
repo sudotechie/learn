@@ -34,15 +34,15 @@ A: Features, Reliability, Ease of Use, Cost, Branding, Distribution
 
 4. So what does it take to deliver that differentiation?
 
-A: Features - Ability to ship code faster, collect/visualize data on how code performed, expose for subsets of users, track features, engineering capacity, customer training, and marketing
+**Features** - Ability to ship code faster, collect/visualize data on how code performed, expose for subsets of users, track features, engineering capacity, customer training, and marketing
 
-A: Reliability - Multiple components here: detecting and alerting on failures, ability to withstand multiple types of failures, ability to revert/remediate quickly, means to teach engineers how the system works, robust QA (quality assurance) whether that's through test-driven development, paired programing, or user testing, track bugs and customer impact
+**Reliability** - Multiple components here: detecting and alerting on failures, ability to withstand multiple types of failures, ability to revert/remediate quickly, means to teach engineers how the system works, robust QA (quality assurance) whether that's through test-driven development, paired programing, or user testing, track bugs and customer impact
 
-A: Ease of Use - Collection and visualization of correlation data: user interactions vs. adoption, conversion, expansion, churn; similar measurements for professional services and impact on customer-lifetime value
+**Ease of Use** - Collection and visualization of correlation data: user interactions vs. adoption, conversion, expansion, churn; similar measurements for professional services and impact on customer-lifetime value
 
-A: Cost - Companies have three levers to use to derive pricing - value-based (how much would it cost to solve this otherwise?), competitive (what do our direct competitors charge?), and COGS-based (what does it cost us to deliver this product or service?). Employees can only impact the value they deliver (identifying the right use cases to pursue and delivering the right functionality) and the cost to run their service via organizational and technical decisions.  
+**Cost** - Companies have three levers to use to derive pricing - value-based (how much would it cost to solve this otherwise?), competitive (what do our direct competitors charge?), and COGS-based (what does it cost us to deliver this product or service?). Employees can only impact the value they deliver (identifying the right use cases to pursue and delivering the right functionality) and the cost to run their service via organizational and technical decisions.  
 
-A: Distribution - This encompasses the buying experience, and is typically the area I am directly involved in. Although each of the above items may supercede one another, a successfully executed distribution model has the ability to reshape the narrative, overcoming as many as ***all*** of the above.
+**Distribution** - This encompasses the buying experience, and is typically the area I am directly involved in. Although each of the above items may supercede one another, a successfully executed distribution model has the ability to reshape the narrative, overcoming as many as ***all*** of the above.
 
      And this is where it all comes together. 
      Answer #5 and you're on the cusp of having real customer empathy 
