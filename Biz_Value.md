@@ -1,3 +1,5 @@
+This document was referenced in a talk delivered at Kubecon EU 2021, titled [Achieving the Tipping Point for Open-Source Software: Making the business value obvious for management](https://kccnceu2021.sched.com/event/176923996967a4aa67dd77131f1c675c). Although the talk centered on positioning technology recommendations for OSS, this template could also serve you in introducing any proposed solution to stakeholders and decision makers within your company.
+
 # Presenting with data ALWAYS carries more weight
 
 ## How is this project critical to our business success?
