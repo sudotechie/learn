@@ -8,7 +8,7 @@ I struggle to organize content and specific facts without first establishing a f
 
 An example would be from the first time I "pitched" a site reliability engineer. This was back in 2013. At the time, I distinctly remember having difficulty understanding exactly what he did. I was unable to mentally place his daily tasks and objectives into any of my pre-existing buckets of titles and responsibilities. As you have probably already concluded, the call went nowhere. Because I didn't have the mental dexterity to accept this new input, I wasn't able to adjust my message and build credibility. 
 
-Fast forward to 2019. New titles are birthed weekly. Some companies are flat, classifying all engineers (application, platform, etc) as non-descript "software engineers". There is no enforcement of titles within LinkedIn, allowing individuals the freedom to be ninjas, rockstars, and the like. And from a technology standpoint, every startup with a previous FAANG employee is getting funding. Each has a ground-breaking, disruptive technology that requires a new category to be defined.
+Fast forward to 2019 (when I started this project). New titles are birthed weekly. Some companies are flat, classifying all engineers (application, platform, etc) as non-descript "software engineers". There is no enforcement of titles within LinkedIn, allowing individuals the freedom to be ninjas, rockstars, and the like. And from a technology standpoint, every startup with a previous FAANG employee is getting funding. Each has a ground-breaking, disruptive technology that requires a new category to be defined.
 
 How do we make sense of it all?
 
@@ -28,7 +28,7 @@ A: Globally via regional data centers
 
 3. Why would a customer choose this company's service over a competitor?
 
-A: Features, Reliability, Ease of Use, Cost, Branding
+A: Features, Reliability, Ease of Use, Cost, Branding, Distribution
 
      This is where it gets a little more complicated...
 
@@ -41,6 +41,8 @@ A: Reliability - Multiple components here: detecting and alerting on failures, a
 A: Ease of Use - Collection and visualization of correlation data: user interactions vs. adoption, conversion, expansion, churn; similar measurements for professional services and impact on customer-lifetime value
 
 A: Cost - Companies have three levers to use to derive pricing - value-based (how much would it cost to solve this otherwise?), competitive (what do our direct competitors charge?), and COGS-based (what does it cost us to deliver this product or service?). Employees can only impact the value they deliver (identifying the right use cases to pursue and delivering the right functionality) and the cost to run their service via organizational and technical decisions.  
+
+A: Distribution - This encompasses the buying experience, and is typically the area I am directly involved in. Although each of the above items may supercede one another, a successfully executed distribution model has the ability to reshape the narrative, overcoming as many as ***all*** of the above.
 
      And this is where it all comes together. 
      Answer #5 and you're on the cusp of having real customer empathy 
@@ -71,6 +73,8 @@ Now that I've shared a primer on how I organize this information, the next secti
 - [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do) (Eng Leadership)
 
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) (Eng Leadership)
+
+- [Ask Your Developer](https://www.askyourdeveloper.com/) 
 
 ### __Podcasts__ (in no order)
 
