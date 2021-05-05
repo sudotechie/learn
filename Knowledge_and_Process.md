@@ -1,25 +1,26 @@
-Early founders I've worked with all had one thing in common, a deep understanding of the product they were building. Yet, some of these founders never went on to earn a dollar from their product. Others were fortunate to land a few first customers, but unsuccessful in achieving repeatability. And much smaller is the group that found a path to consistent and predictable growth, adding logos and revenue with apparent ease and predictability. 
+Early founders I've worked with all had one thing in common, a deep understanding of the product they were building. Yet, some of these founders never went on to earn a dollar from their product. Others were fortunate to land a few initial customers, but unsuccessful in achieving anything resembling product-market-fit. And many fewer still are those founders that found a path to consistent growth, adding logos and revenue with apparent ease and predictability. 
 
 ## What separates a successful founder from the founder that never gets their startup off the ground?
 
-It comes down to two relatively simple concepts: **knowledge** *and* **process**
+It comes down to two relatively simple concepts: **knowledge** *and* **process** 
+(*purposefully excluding persistence and luck from this conversation*)
 
 In this context, knowledge is defined as having a deep understanding of *all* of the following:
 1. market trends
 2. competition
 3. target users
-4. product
-5. material impact of the problem (emotional and quantifitative)
+4. your product
+5. the material impact of the problem (emotional and quantifitative)
 
-I'm starting with knowledge because without mastery of the above, it's unlikely that you'll ever make a real sale, regardless of the maturity of your process. If you are a founder and you (or your cofounders) do not currently have a deep understanding of *all 5* of the above, then you are going to struggle. 
+I'm starting with knowledge because without mastery of the above, it's unlikely that you'll ever make a real (non-friendly) sale, regardless of the maturity of your process. If you are a founder and you (or your cofounders) do not currently possess a deep understanding of *all 5* of the above, then you are going to struggle. 
 
 ## Why prioritize knowledge over process?
 
-In my experience, it's much more difficult to pattern match (a skill required for scaling) without first having a firm grasp on the dimensions across each of the above items. As a salesperson, this is one of the most challenging thing for new Account Executives (AEs) to do well. Without having a strong contextual foundation consisting of these items, it's common to see early founders and less experienced AEs pick up the cues and ask the questions required to generate a much deeper understanding of motives, triggering events, and cause and effect.  
+In my experience, it's much more difficult to pattern match (a skill required for scaling) without first having a firm grasp on the dimensions across each of the above items. As a salesperson, this is one of the most challenging skills to acquire for new Account Executives (AEs), but absolutely necessary to excel. Without having a strong contextual foundation consisting of these items, it's common to see early founders and less experienced AEs miss the cues and fail to ask the questions required to generate a much deeper understanding of motives, triggering events, and cause and effect.  
 
 ## But we're too small to put in all these "processes"
 
-Early, lightweight processes actually simplify decision-making and accelerate learning. 
+If employed early, lightweight processes actually simplify decision-making and accelerate learning. 
 
 I'm defining process as a collection of mental models used to build and/or reinforce the following:
 1. credibility in your ability to fulfill stated vision
@@ -35,21 +36,21 @@ Since I haven't really found a great resource that touches on this topic, especi
 
 **Credibility**
 
-One of the biggest challenges for early-stage companies is to build credibility with their audience. Remember, the person you are pitching has to feel confident that if they are to invest their time, or better yet, their colleagues', then there will be either a personal or professional return on that investment. This is why you see long-winded bios of founders and seed stage funding announcements used as carrots to get meetings. In an ideal world, you'd have some social proof; however, that is rarely available to early startups outside of the COSS space. 
+One of the biggest challenges for early-stage companies is to build credibility with their audience. Remember, the person you are pitching has to feel confident that if they are to invest their time, or better yet, their colleagues' time, then there will be either a personal or professional return on that investment. This is why you see long-winded bios of founders and seed stage funding announcements used as carrots to get meetings. In an ideal world, you'd have some social proof to open doors to new prospects. Unfortunately, social proof is rarely available to early startups outside of the COSS space, or without dynamic, opinionated, *and* recognized founders. 
 
 So what other options are there? 
 
-What most founders don't realize is that the process in which you introduce a prospect to your company tells them alot about the maturity of you and your company and if you're going to waste their time. Do they see you as a peer that will stretch them? Does it appear you've done this before? Will subsequent conversations introduce novel ideas? What do others that work with you get from this process? 
+What most founders don't realize is that the process in which you introduce a prospect to your company innately informs them of the maturity of you and your company. This is the first indicator as to whether you will provide value or waste their time. Do they see you as a peer that will stretch their knowledge and understanding of the space? Does it appear you've done this before? Will subsequent conversations introduce novel ideas? What do others that work with you get from this process? 
 
 Reduce prospect anxiety and give them confidence through a well-defined engagement process, one that sets expectations and timelines with clear milestones.
 
 **Momentum**
 
-A well-defined engagement process naturally holds parties accountable, but it's what happens at each of these "check-ins" that either builds or crushes momentum within the engagement. One of the challenges (and opportunities) of early engagements is the constant exchange that occurs: founder/engineer show, tell, ask questions; prospect or customer provides answers and feedback. 
+A well-defined engagement process naturally holds parties accountable, but it's what happens at each of these "check-ins" that either builds or reduces momentum within the engagement. One of the challenges (and opportunities) of early engagements is the constant exchange that occurs: founder/engineer show, tell, ask questions; prospect or customer provides answers and feedback. 
 
-Early on, you may feel resource-constrained to deliver on this feedback. Little do you know, this is probably the time in your nascent startup's life where you have the most agility and flexibility. Use this to your advantage. One thing that most folks don't realize is that any time you ask for feedback, you are making a commitment to do something with it (not necessarily implement). Momentum only builds if this cycle continues to a point where the prospect is achieving some end-to-end value for at least one use-case. 
+Early on, you may feel resource-constrained to deliver on this feedback. Little do you know, this is probably the time in your nascent startup's life where you have the most agility and flexibility. Use this to your advantage against the incumbent solution. One thing that most folks don't realize is that any time you ask for feedback, you are making a commitment to do something with it (not necessarily to implement). Momentum only builds if this cycle continues to a point where the prospect is achieving some end-to-end value for at least one use-case. 
 
-When I structure early engagements, I put milestone markers at the onset to align everyone on what each team is responsible, but also to make sure that the customer sees the prospect of value at each stage. Then within each individual session it is critical to demonstrate movement -- either via iterations in the product or the processing of insights and feedback that the prospect provided in previous sessions. I also highly recommend proactive notifications of any enhancements the team has made, as long as you can develop a repeatable cadence. Imagine yourself as the prospect - you'd know the destination in advance, feel heard and valued, and gain unbridled access to engineers that you couldn't get with your current vendor or in-house. 
+When I structure early engagements, I identify and communicate milestone markers at the onset to align everyone on what each team is responsible for, and also to validate that the customer expects to receive value at each of the milestones. Then within each individual session it is critical to demonstrate movement -- either via iterations in the product or the processing of insights and feedback that the prospect provided in previous sessions. I also highly recommend proactive notifications of any enhancements the team has made, as long as you can develop a repeatable cadence. Imagine yourself as the prospect - you'd appreciate getting to know the destination in advance, feel heard and valued, and gain unbridled access to engineers that you couldn't get with your current vendor or in-house. 
 
 **Institutionalize learnings**
 
