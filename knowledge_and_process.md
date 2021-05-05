@@ -1,4 +1,4 @@
-I've met and worked with a number of early founders. They all had one thing in common, a deep understanding of the product they were building. Yet, some of these founders never went on to earn a dollar from their product. Others were fortunate to land a few first customers, but unsuccessful in getting to anything repeatable. And then there was a much smaller group that found a path to consistent and predictable growth, adding logos and revenue with apparent ease. 
+Early founders I've worked with all had one thing in common, a deep understanding of the product they were building. Yet, some of these founders never went on to earn a dollar from their product. Others were fortunate to land a few first customers, but unsuccessful in achieving repeatability. And much smaller is the group that found a path to consistent and predictable growth, adding logos and revenue with apparent ease and predictability. 
 
 ## How come?
 
