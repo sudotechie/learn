@@ -16,6 +16,8 @@ For you founders out there, I jotted down a few thoughts on earning those first 
 
 The [Business Value Template](https://github.com/sudotechie/learn/blob/master/Biz_Value.md) came from a talk I gave at Kubecon EU to help technology practitioners in influencing management to support their use of open source software. 
 
+[Knowledge and Process](https://github.com/sudotechie/learn/blob/master/knowledge_and_process.md) provides a checklist for what a founder should know going into their first prospect engagements, and how to structure them to have the best chance for sales success.
+
 Yeah, your probably thinking, this isn't just a repo...it's a *monorepo*! I have a few dad jokes too.
 
 In all seriousness, enjoy the content, make suggestions, ask me questions. 
