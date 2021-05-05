@@ -11,7 +11,7 @@
 7. Commit to contractual obligations that you aren't entirely sure you can meet
 8. Get contract, celebrate, figure out how you'll deliver
 9. Onboard customer and all their users
-10. Try and do it again while keeping up with the bug fixes and feature requests from customer 1
+10. Try and do it again while keeping up with the bug fixes and feature requests from customer #1
 
 **I've learned that doing this more than once, and at larger companies introducing new products, makes me more qualified than most to explain how it can work for you.** 
 
