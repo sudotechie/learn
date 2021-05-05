@@ -21,8 +21,8 @@
 2. You are an expert in your technology and have a deep understanding of the space. Your prospect is not (yet). Your value is in guiding them through this understanding and the risk associated with status quo (without patronizing or 40 slides).
 3. Prospects need reassurance that you are not going to waste their time. They need a plan to follow.
 3. Deals live and die by momentum. Every interaction with you or the product has the ability to build momentum.
-4. There must be an exchange of value in most, if not all, interactions
-5. Prospects pay more money when the immediate (or independently felt) pain can be tied to a business reward or a risk - these can be revenue, profitability, churn, attrition, compliance, etc
+4. There must be an exchange of value in most, if not all, interactions.
+5. Prospects pay more money when the immediate (or independently felt) pain can be tied to a business reward or a risk - these can be revenue, profitability, churn, attrition, compliance, etc.
 
 **And in an ideal world, I'd stack-rank prioritize landing my first customers in the following order:**
 
