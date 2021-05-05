@@ -14,7 +14,7 @@ I originally wrote the [Getting Into Sales](https://github.com/sudotechie/learn/
 
 For you founders out there, I jotted down a few thoughts on earning those first few deals in the [Startup Sales Primer](https://github.com/sudotechie/learn/blob/master/Startup_Sales_Primer.md).
 
-The [Business Value Temaplate](https://github.com/sudotechie/learn/blob/master/Biz_Value.md) came from a talk I gave at Kubecon EU to help technology practitioners in influencing management to support their use of open source software. 
+The [Business Value Template](https://github.com/sudotechie/learn/blob/master/Biz_Value.md) came from a talk I gave at Kubecon EU to help technology practitioners in influencing management to support their use of open source software. 
 
 Yeah, your probably thinking, this isn't just a repo...it's a *monorepo*! I have a few dad jokes too.
 
