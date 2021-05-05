@@ -1,6 +1,6 @@
 Early founders I've worked with all had one thing in common, a deep understanding of the product they were building. Yet, some of these founders never went on to earn a dollar from their product. Others were fortunate to land a few first customers, but unsuccessful in achieving repeatability. And much smaller is the group that found a path to consistent and predictable growth, adding logos and revenue with apparent ease and predictability. 
 
-## How come?
+## What separates a successful founder from the founder that never gets their startup off the ground?
 
 It comes down to two relatively simple concepts: **knowledge** *and* **process**
 
