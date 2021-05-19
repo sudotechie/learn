@@ -52,7 +52,7 @@ Early on, you may feel resource-constrained to deliver on this feedback. Little 
 
 When I structure early engagements, I identify and communicate milestone markers at the onset to align everyone on what each team is responsible for, and also to validate that the customer expects to receive value at each of the milestones. Then within each individual session it is critical to demonstrate movement -- either via iterations in the product or the processing of insights and feedback that the prospect provided in previous sessions. I also highly recommend proactive notifications of any enhancements the team has made, as long as you can develop a repeatable cadence. Imagine yourself as the prospect - you'd appreciate getting to know the destination in advance, feel heard and valued, and gain unbridled access to engineers that you couldn't get with your current vendor or in-house. 
 
-**Institutionalize learnings**
+**Institutionalize Learnings**
 
 At my first startup, I came to the realization that the customer-facing founder is the most likely the best salesperson the company will ever have. If the founder can't sell the product, it's unrealistic to expect a salesperson with less knowledge (and usually direct customer empathy) to come in and get a prospect to make a big bet on them. This caused me to ask, what can I do to close that gap and make it so any new sales hire can get to 80% of founder sales effectiveness in short order? 
 
