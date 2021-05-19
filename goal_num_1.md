@@ -45,4 +45,4 @@ In fact, at my last startup, I worked with customer contacts to verify informati
 
 ## Takeaway
 
-Although each call will have a goal - get them to evaluation, get to power, find a project, whatever it is... - maintaining high-level sight on filling out that case study criteria will help you and anyone you bring on get there that much faster.
+Although each call will have a goal - sign-off to begin evaluation, get to power, find a project, whatever it is... - maintaining high-level sight on filling out that case study criteria will help you and anyone you bring on get there that much faster.
