@@ -9,7 +9,7 @@ When you frame your sales process like this, you are forcing yourself to:
 4. Quantify breadth of impact for each way of solving this problem
 5. Understand how prospects prioritize these problems and how they're linked to business outcomes
 
-I'm currently reading a book called *[The Secret Lives of Customers]{https://www.amazon.com/Secret-Lives-Customers-Detective-Customer/dp/1541774493]* by David Scott Duncan. The author details the Jobs to be Done (JTBD) framework for understanding why customers hire certain solutions/vendors. There are 4 questions required to understand user behavior:
+I'm currently reading a book called *[https://www.amazon.com/Secret-Lives-Customers-Detective-Customer/dp/1541774493](The Secret Lives of Customers)* by David Scott Duncan. The author details the Jobs to be Done (JTBD) framework for understanding why customers hire certain solutions/vendors. There are 4 questions required to understand user behavior:
 1. What circumstance is your customer in when they seek out/use a solution?
 2. What are they trying to do when they use the solution?
 3. How do they define quality, or its ability to fulfill the requirement?
