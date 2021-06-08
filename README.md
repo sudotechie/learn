@@ -10,13 +10,13 @@ After more than 10 years in sales, I've realized that being a *do-er* across ind
 
 
 # Where to start
-I originally wrote the [Getting Into Sales](https://github.com/sudotechie/learn/blob/master/Getting_Into_Sales.md) doc to learn Git and markdown, and provide a place for my peers to discover and access content I was absorbing regarding software development trends. It became a tool to onboard new reps and set expectations around the types of knowledge they would need to have to build credibility with prospects. 
+I originally wrote the [Getting Into Sales](./Getting_Into_Sales.md) doc to learn Git and markdown, and provide a place for my peers to discover and access content I was absorbing regarding software development trends. It became a tool to onboard new reps and set expectations around the types of knowledge they would need to have to build credibility with prospects. 
 
-For you founders out there, I jotted down a few thoughts on earning those first few deals in the [Startup Sales Primer](https://github.com/sudotechie/learn/blob/master/Startup_Sales_Primer.md).
+For you founders out there, I jotted down a few thoughts on earning those first few deals in the [Startup Sales Primer](./Startup_Sales_Primer.md).
 
-The [Business Value Template](https://github.com/sudotechie/learn/blob/master/Biz_Value.md) came from a talk I gave at Kubecon EU to help technology practitioners in influencing management to support their use of open source software. 
+The [Business Value Template](./Biz_Value.md) came from a talk I gave at Kubecon EU to help technology practitioners in influencing management to support their use of open source software. 
 
-[Knowledge and Process](https://github.com/sudotechie/learn/blob/master/knowledge_and_process.md) provides a checklist for what a founder should know going into their first prospect engagements, and how to structure them to have the best chance for sales success.
+[Knowledge and Process](./Knowledge_and_Process.md) provides a checklist for what a founder should know going into their first prospect engagements, and how to structure them to have the best chance for sales success.
 
 Yeah, your probably thinking, this isn't just a repo...it's a *monorepo*! I have a few dad jokes too.
 
